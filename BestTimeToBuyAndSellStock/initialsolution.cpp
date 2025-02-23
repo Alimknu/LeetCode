@@ -5,7 +5,7 @@ using namespace std;
 class Solution
 {
 public:
-    int highProfit(vector<int> &prices)
+    int maxProfit(vector<int> &prices)
     {
         int low = 0;
         int high = 0;
